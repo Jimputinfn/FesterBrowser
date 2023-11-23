@@ -5,13 +5,13 @@ This project is based on SharpBrowser but SharpBrowser doesnt get many updates. 
 Copied From SharpBrowser:
 
 Features: 
-HTML5, CSS3, JS, HTML5 Video, WebGL 3D, WebAssembly, etc
-Tabbed browsing
-Address bar (also opens Google)
-Back, Forward, Stop, Refresh
-Developer tools
-Search bar (also highlights all instances)
-Download manager (Doesnt Currently work)
-Custom context menu
-Easily add vendor-specific branding, buttons or hotkeys
-View online & offline webpages
+HTML5, CSS3, JS, HTML5 Video, WebGL 3D, WebAssembly, etc.
+Tabbed browsing.
+Address bar (also opens Google).
+Back, Forward, Stop, Refresh.
+Developer tools.
+Search bar (also highlights all instances).
+Download manager (Doesnt Currently work).
+Custom context menu.
+Easily add vendor-specific branding, buttons or hotkeys.
+View online & offline webpages.
