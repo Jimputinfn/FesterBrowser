@@ -4,8 +4,6 @@ This project is based on SharpBrowser but SharpBrowser doesnt get many updates. 
 <p align="center">
   <img src="[your_relative_path_here](https://github.com/Jimputinfn/FesterBrowser/blob/7e7784d3ddd3f22dc270e5c76e2128b75a8386f1/photo.png)" width="350" title="Screenshot of Browser">
 
-</p>
-![Browser:]([photo.png))
 Copied From SharpBrowser:
 
 Features: 
