@@ -1,8 +1,7 @@
 # FesterBrowser
 Official Github Page for FesterBrowser. Based on SharpBrowser.
 This project is based on SharpBrowser but SharpBrowser doesnt get many updates. But FesterBrowser is based on it and i am updating this once or twice a month so you should check the site on last week of month.
-<p align="center">
-  <img src="[your_relative_path_here]([https://github.com/Jimputinfn/FesterBrowser/blob/7e7784d3ddd3f22dc270e5c76e2128b75a8386f1/photo.png](https://image.jimcdn.com/app/cms/image/transf/dimension=278x10000:format=png/path/s794d6cfdb8536537/image/iefaaef77e8353fcf/version/1700847102/image.png))" width="350" title="Screenshot of Browser">
+<img src="[/ChrisTitusTech/winutil/raw/test-2023-11-15/screen-install.png](https://image.jimcdn.com/app/cms/image/transf/dimension=278x10000:format=png/path/s794d6cfdb8536537/image/iefaaef77e8353fcf/version/1700847102/image.png)" alt="screen-install" style="max-width: 100%;">
 
 Copied From SharpBrowser:
 
