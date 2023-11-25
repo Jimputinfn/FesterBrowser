@@ -13,6 +13,7 @@ HTML5, CSS3, JS, HTML5 Video, WebGL 3D, WebAssembly, etc.
 Tabbed browsing.
 Address bar (also opens Google).
 Back, Forward, Stop, Refresh.
+Clear Trackers,
 Developer tools.
 Search bar (also highlights all instances).
 Download manager (Doesnt Currently work).
